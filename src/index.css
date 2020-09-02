@@ -100,9 +100,3 @@ h6 {
   grid-template-columns: 1fr 1fr;
   grid-gap: 20px;
 }
-
-@media screen and (min-width: 945px) {
-  .college-lists > div {
-    margin: 37px 0;
-  }
-}
