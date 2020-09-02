@@ -75,12 +75,11 @@ h6 {
 
 /* For Home  Component */
 .main-wrapper {
-  font-size: 18.5px;
-  /* font-weight: 500; */
-  color: #444444;
-  max-width: 1300px;
+  max-width: 1200px;
   width: 100%;
   margin: 0 auto;
+  font-size: 18.5px;
+  color: #444444;
   font-family: "Roboto", sans-serif;
   letter-spacing: 0.5px;
   line-height: 1.5;
