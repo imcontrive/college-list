@@ -1,7 +1,6 @@
 import React from "react";
 
 export const College = props => {
-  // console.log(props);
   const {
     college_name,
     promoted,
@@ -18,22 +17,6 @@ export const College = props => {
     famous_nearest_places,
     offertext
   } = props.college;
-  // console.log(
-  //   college_name,
-  //   promoted,
-  //   discount,
-  //   original_fees,
-  //   discounted_fees,
-  //   fees_cycle,
-  //   ranking,
-  //   tags,
-  //   amenties,
-  //   rating,
-  //   rating_remarks,
-  //   nearest_place,
-  //   famous_nearest_places,
-  //   offertext
-  // );
 
   return (
     <div className="is_college_wrapper">
